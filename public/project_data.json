@@ -1,0 +1,70 @@
+{
+    "categories": [
+        {
+            "name": "Electronics",
+            "description": "Gadgets and electronic devices"
+        },
+        {
+            "name": "Books",
+            "description": "Books and educational materials"
+        },
+        {
+            "name": "Clothing",
+            "description": "Apparel and accessories"
+        },
+        {
+            "name": "Furniture",
+            "description": "Home and office furniture"
+        }
+    ],
+    "products": [
+        {
+            "code": "P001",
+            "name": "Smartphone",
+            "description": "A high-end smartphone with 128GB storage",
+            "price": 699,
+            "category": "Electronics"
+        },
+        {
+            "code": "P002",
+            "name": "Novel",
+            "description": "A best-selling fiction novel",
+            "price": 19.99,
+            "category": "Books"
+        },
+        {
+            "code": "P003",
+            "name": "T-Shirt",
+            "description": "Cotton T-shirt with various sizes",
+            "price": 15.0,
+            "category": "Clothing"
+        },
+        {
+            "code": "P004",
+            "name": "Office Chair",
+            "description": "Ergonomic chair for office use",
+            "price": 150,
+            "category": "Furniture"
+        }
+    ],
+    "customers": [
+        {
+            "name": "John Doe",
+            "dateOfBirth": "1990-05-15",
+            "memberNumber": 1,
+            "interests": "movies, gaming"
+        },
+        {
+            "name": "Jane Smith",
+            "dateOfBirth": "1985-07-20",
+            "memberNumber": 2,
+            "interests": "football, gym"
+        },
+        {
+            "name": "Robert Brown",
+            "dateOfBirth": "1992-11-30",
+            "memberNumber": 3,
+            "interests": "reading, movies"
+        }
+    ]
+}
